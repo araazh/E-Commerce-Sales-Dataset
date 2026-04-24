@@ -1,1 +1,2 @@
-link: https://e-commerce-sales-dataset.streamlit.app/
+link streamlit: https://e-commerce-sales-dataset.streamlit.app/
+link github: https://github.com/araazh/E-Commerce-Sales-Dataset
