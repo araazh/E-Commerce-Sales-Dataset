@@ -64,7 +64,7 @@ Dashboard akan otomatis terbuka di `http://localhost:8501`
 
 Dashboard sudah di-deploy dan dapat diakses di:
 
-👉 **[Lihat Dashboard]([https://your-app-name.streamlit.app](https://e-commerce-sales-dataset.streamlit.app/))**
+👉 **[Lihat Dashboard](https://your-app-name.streamlit.app](https://e-commerce-sales-dataset.streamlit.app/)**
 
 
 ---
