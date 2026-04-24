@@ -39,7 +39,7 @@ st.markdown("""
 # ── Load data ─────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    df = pd.read_csv("main_data.csv")
+    df = pd.read_csv(os.path.join(os.path.dirname(__file__), "main_data.csv"))
 
     datetime_cols = [
         "order_purchase_timestamp", "order_approved_at",
