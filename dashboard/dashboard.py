@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
 import numpy as np
+import os
 from babel.numbers import format_number
 
 # ── Page config ──────────────────────────────────────────────────────────────
